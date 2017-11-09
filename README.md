@@ -8,10 +8,10 @@ kmpay
 3  配置config.dll文件并保存。
 将登录账户等填入下面对应位置
 
-+<loginName>登录的账户</loginName>
-+<password>登录密码</password>
-+<tkloginName>退款账户</tkloginName>
-+<tkpassword>退款密码</tkpassword>
+loginName>登录的账户</loginName>
+password>登录密码</password>
+tkloginName>退款账户</tkloginName>
+tkpassword>退款密码</tkpassword>
 
 
 选择设置项
