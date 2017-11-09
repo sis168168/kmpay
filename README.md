@@ -1,6 +1,6 @@
 
 
-<font size="20">安装步骤<BR></font>
+<font size="20">安装步骤</font><BR> 
 1，将kmsetup11.2.exe复制到收银等软件根目录，双击！双击！双击！安装。 目录不用更改执行安装。<BR>
 2，安装成功后会自动打开config.dll。<BR> 
 3  配置config.dll文件并保存。<BR>
